@@ -1,7 +1,7 @@
 ### Here is What I'm Working On !! 👋
 
 
-- 🔭 I’m currently working -> Student Of Computer Science
+- 🔭 I’m currently working -> freelancer
 - 🌱 I’m currently learning -> Django
 - 👯 I’m looking to collaborate on -> Django
 - 💬 Ask me about -> Anything
